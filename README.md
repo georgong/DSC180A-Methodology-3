@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Zhenghao Gong
-z3gong@ucsd.edu
+Zhenghao Gong and Weijie Zhang
